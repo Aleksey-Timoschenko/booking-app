@@ -1,0 +1,304 @@
+{
+  "available-workers": [
+    {
+      "slot_id": 1,
+      "availableWorker_ids": [
+        1,
+        2,
+        7
+      ]
+    },
+    {
+      "slot_id": 2,
+      "availableWorker_ids": [
+        4,
+        8,
+        10
+      ]
+    },
+    {
+      "slot_id": 3,
+      "availableWorker_ids": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "slot_id": 4,
+      "availableWorker_ids": [
+        3,
+        5,
+        9
+      ]
+    },
+    {
+      "slot_id": 5,
+      "availableWorker_ids": [
+        6
+      ]
+    },
+    {
+      "slot_id": 6,
+      "availableWorker_ids": [
+        1,
+        3,
+        5,
+        7,
+        9
+      ]
+    },
+    {
+      "slot_id": 7,
+      "availableWorker_ids": [
+        2,
+        4,
+        6,
+        8,
+        10
+      ]
+    },
+    {
+      "slot_id": 8,
+      "availableWorker_ids": [
+        1,
+        2
+      ]
+    },
+    {
+      "slot_id": 9,
+      "availableWorker_ids": [
+        4,
+        8
+      ]
+    },
+    {
+      "slot_id": 10,
+      "availableWorker_ids": [
+        3,
+        6
+      ]
+    },
+    {
+      "slot_id": 11,
+      "availableWorker_ids": [
+        1,
+        3,
+        4,
+        9
+      ]
+    },
+    {
+      "slot_id": 12,
+      "availableWorker_ids": [
+        2,
+        4,
+        10
+      ]
+    },
+    {
+      "slot_id": 13,
+      "availableWorker_ids": [
+        9,
+        10
+      ]
+    },
+    {
+      "slot_id": 14,
+      "availableWorker_ids": [
+        2
+      ]
+    },
+    {
+      "slot_id": 15,
+      "availableWorker_ids": [
+        6,
+        7
+      ]
+    },
+    {
+      "slot_id": 16,
+      "availableWorker_ids": [
+        4,
+        8
+      ]
+    },
+    {
+      "slot_id": 17,
+      "availableWorker_ids": [
+        2,
+        6,
+        8
+      ]
+    },
+    {
+      "slot_id": 18,
+      "availableWorker_ids": [
+        5,
+        7,
+        10
+      ]
+    }
+  ],
+  "workers": [
+    {
+      "id": 1,
+      "name": "Maxwell Smith",
+      "rating": "4.1",
+      "isNew": false
+    },
+    {
+      "id": 2,
+      "name": "Ellouise Riddle",
+      "rating": "4.6",
+      "isNew": true
+    },
+    {
+      "id": 3,
+      "name": "Asad Reese",
+      "rating": "2.5",
+      "isNew": false
+    },
+    {
+      "id": 4,
+      "name": "Sabrina Leal",
+      "rating": "5",
+      "isNew": false
+    },
+    {
+      "id": 5,
+      "name": "Ifan Hewitt",
+      "rating": "3.7",
+      "isNew": true
+    },
+    {
+      "id": 6,
+      "name": "Wesley Vaughan",
+      "rating": "4.3",
+      "isNew": true
+    },
+    {
+      "id": 7,
+      "name": "Usaamah Mccall",
+      "rating": "5",
+      "isNew": false
+    },
+    {
+      "id": 8,
+      "name": "Keir Campbell",
+      "rating": "2.6",
+      "isNew": false
+    },
+    {
+      "id": 9,
+      "name": "Simra Mill",
+      "rating": "4.3",
+      "isNew": true
+    },
+    {
+      "id": 10,
+      "name": "Luciano Kay",
+      "rating": "4.9",
+      "isNew": false
+    }
+  ],
+  "slots": [
+    {
+      "id": 1,
+      "localisedTime": "12:00",
+      "price": "£81.00"
+    },
+    {
+      "id": 2,
+      "localisedTime": "12:30",
+      "price": "£81.00"
+    },
+    {
+      "id": 3,
+      "localisedTime": "13:00",
+      "price": "£87.00"
+    },
+    {
+      "id": 4,
+      "localisedTime": "13:30",
+      "price": "£87.00"
+    },
+    {
+      "id": 5,
+      "localisedTime": "14:00",
+      "price": "£87.00"
+    },
+    {
+      "id": 6,
+      "localisedTime": "14:30",
+      "price": "£87.00"
+    },
+    {
+      "id": 7,
+      "localisedTime": "15:00",
+      "price": "£87.00"
+    },
+    {
+      "id": 8,
+      "localisedTime": "15:30",
+      "price": "£87.00"
+    },
+    {
+      "id": 9,
+      "localisedTime": "16:00",
+      "price": "£87.00"
+    },
+    {
+      "id": 10,
+      "localisedTime": "16:30",
+      "price": "£87.00"
+    },
+    {
+      "id": 11,
+      "localisedTime": "17:00",
+      "price": "£87.00"
+    },
+    {
+      "id": 12,
+      "localisedTime": "17:30",
+      "price": "£87.00"
+    },
+    {
+      "id": 13,
+      "localisedTime": "18:00",
+      "price": "£87.00"
+    },
+    {
+      "id": 14,
+      "localisedTime": "18:30",
+      "price": "£87.00"
+    },
+    {
+      "id": 15,
+      "localisedTime": "19:00",
+      "price": "£91.00"
+    },
+    {
+      "id": 16,
+      "localisedTime": "19:30",
+      "price": "£91.00"
+    },
+    {
+      "id": 17,
+      "localisedTime": "20:00",
+      "price": "£91.00"
+    },
+    {
+      "id": 18,
+      "localisedTime": "20:30",
+      "price": "£91.00"
+    }
+  ]
+}
